@@ -92,4 +92,4 @@ Notes for Raspberry Pi: You may need to configure the relevant IO pins to be the
 
 # Licensing
 
-See the LICENSE.txt file for more details.
+See the [LICENSE.txt] file for more details.
